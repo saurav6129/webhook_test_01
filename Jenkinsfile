@@ -12,7 +12,7 @@ pipeline {
 			steps {
 				sh 'python --version' 
 				echo 'testing python version as well as webhook .'
-				echo'let' see'
+				echo'let us see'
 			
 			}
 		}
